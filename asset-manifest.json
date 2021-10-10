@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/theham_reactjs/static/css/main.ed05df31.chunk.css",
+    "main.js": "/theham_reactjs/static/js/main.e9dd2a71.chunk.js",
+    "main.js.map": "/theham_reactjs/static/js/main.e9dd2a71.chunk.js.map",
+    "runtime-main.js": "/theham_reactjs/static/js/runtime-main.20f3684b.js",
+    "runtime-main.js.map": "/theham_reactjs/static/js/runtime-main.20f3684b.js.map",
+    "static/js/2.15b52ca3.chunk.js": "/theham_reactjs/static/js/2.15b52ca3.chunk.js",
+    "static/js/2.15b52ca3.chunk.js.map": "/theham_reactjs/static/js/2.15b52ca3.chunk.js.map",
+    "static/js/3.c7e5ef87.chunk.js": "/theham_reactjs/static/js/3.c7e5ef87.chunk.js",
+    "static/js/3.c7e5ef87.chunk.js.map": "/theham_reactjs/static/js/3.c7e5ef87.chunk.js.map",
+    "index.html": "/theham_reactjs/index.html",
+    "static/css/main.ed05df31.chunk.css.map": "/theham_reactjs/static/css/main.ed05df31.chunk.css.map",
+    "static/js/2.15b52ca3.chunk.js.LICENSE.txt": "/theham_reactjs/static/js/2.15b52ca3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/theham_reactjs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20f3684b.js",
+    "static/js/2.15b52ca3.chunk.js",
+    "static/css/main.ed05df31.chunk.css",
+    "static/js/main.e9dd2a71.chunk.js"
+  ]
+}
